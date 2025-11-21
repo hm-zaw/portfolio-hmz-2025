@@ -762,3 +762,20 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+.project-card-img {
+  height: 250px; /* adjust as needed */
+  object-fit: cover;
+  width: 100%;
+}
+
+.resume-section {
+  min-height: 100vh;        /* Make the section at least full height */
+  padding-bottom: 150px;    /* Give space so footer doesn't overlap */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.resume {
+  flex: 1;                  /* Allow PDF content to expand properly */
+}
