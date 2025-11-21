@@ -8,37 +8,32 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi everyone! I’m <span className="purple">Soumyajit Behera</span>{" "}
-            from <span className="purple">Bhubaneswar, India</span>.
-            <br />
-            I’m currently working as a{" "}
-            <span className="purple">Software Developer</span> at{" "}
-            <span className="purple">Juspay</span>.
-            <br />I hold an Integrated M.Sc. (IMSc) in{" "}
-            <span className="purple">Mathematics and Computing</span> from{" "}
-            <span className="purple">BIT Mesra</span>.
-            <br />
-            <br />
-            Outside of coding, I love engaging in activities that keep me
-            creative and inspired:
-          </p>
+  Hi! I’m <span className="purple">Htet Myet Zaw</span> from{" "}
+  <span className="purple">Yangon, Myanmar</span>.
+  <br />
+  I’m an undergraduate <span className="purple">Software Engineering</span> student at{" "}
+  <span className="purple">UIT</span> who enjoys building modern web applications
+  and exploring new technologies.
+  <br /><br />
+  Outside of coding, I like spending time on activities that keep me inspired and balanced:
+</p>
 
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games 🎮
+              <ImPointRight /> Playing Video Games 🎮
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs ✍️
+              <ImPointRight /> Learning New Tech & Tools ⚙️
             </li>
             <li className="about-activity">
-              <ImPointRight /> Traveling and Exploring New Places 🌍
+              <ImPointRight /> Traveling & Exploring New Places 🌍
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Keep learning, keep building — every small step matters."{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Htet Myet Zaw</footer>
         </blockquote>
       </Card.Body>
     </Card>

@@ -13,39 +13,24 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
-              <br />
-              <br />
-              I’m proficient in
-              <i>
-                <b className="purple">
-                  {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
-                </b>
-              </i>
-              — and I enjoy working across both backend and frontend stacks.
-              <br />
-              <br />
-              My key areas of interest include developing
-              <i>
-                <b className="purple">
-                  {" "}
-                  Web Applications, Blockchain Solutions,{" "}
-                </b>
-              </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
-              <br />
-              <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
-              <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
-              </i>
+              I’m an undergraduate Software Engineering student from the University of
+              Information Technology. I enjoy building practical, user-focused applications
+              and turning ideas into efficient software solutions.
+              <br /><br />
+              I work with 
+              <b className="purple"> JavaScript, PHP, Python, Java, and SQL</b>, and I’m
+              always expanding my technical skill set.
+              <br /><br />
+              My interests include developing 
+              <b className="purple"> web applications, REST APIs,</b> and exploring
+              <b className="purple"> machine learning</b>.
+              <br /><br />
+              I’m experienced with 
+              <b className="purple"> Laravel, React, Next.js, Spring Boot</b> and tools like
+              Git/GitHub, Docker (basic), Stripe, and databases such as MySQL, PostgreSQL,
+              SQLite, MongoDB, and Firebase Firestore.
             </p>
+
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
